@@ -1,4 +1,3 @@
-import { HeroHeader } from "@/app/(marketing)/_components/header";
 import HeroSection from "@/app/(marketing)/_components/hero-section";
 import { ThemeToggle } from "@/components/ui/them-toggle";
 
